@@ -23,6 +23,15 @@ colors:
     text: '0x44475a'
     cursor: '0xf8f8f2'
 
+  # Selection colors
+  #
+  # Colors which should be used to draw the selection area. If selection
+  # background is unset, selection color will be the inverse of the cell colors.
+  # If only text is unset the cell text color will remain the same.
+  selection:
+    text: '0xf8f8f2'
+    background: '0x44475a'
+
   # Normal colors
   normal:
     black:   '0x000000'
