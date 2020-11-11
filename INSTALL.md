@@ -1,4 +1,4 @@
-### [Alacritty](https://github.com/jwilm/alacritty)
+### [Alacritty](https://github.com/alacritty/alacritty)
 
 #### Install
 

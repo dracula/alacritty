@@ -1,6 +1,6 @@
-# Dracula for [Alacritty](https://github.com/jwilm/alacritty)
+# Dracula for [Alacritty](https://github.com/alacritty/alacritty)
 
-> A dark theme for [Alacritty](https://github.com/jwilm/alacritty).
+> A dark theme for [Alacritty](https://github.com/alacritty/alacritty).
 
 ![Screenshot](./screenshot.png)
 
