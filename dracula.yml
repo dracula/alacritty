@@ -26,8 +26,8 @@ colors:
       foreground: '#44475a'
       background: '#ffb86c'
     bar:
-      background: '#f8f8f2'
-      foreground: '#282a36'
+      background: '#282a36'
+      foreground: '#f8f8f2'
   hints:
     start:
       foreground: '#282a36'
