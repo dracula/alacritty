@@ -4,9 +4,8 @@
 
 Download using the [GitHub `.zip` download](https://github.com/dracula/alacritty/archive/master.zip) option.
 
-You just have to import `dracula.yml` in `~/.config/alacritty/alacritty.yml`.
+You just have to import `dracula.toml` in `~/.config/alacritty/alacritty.toml`.
 
-```yaml
-import:
-  - /path/to/dracula.yml
+```toml
+import = ["/path/to/dracula.toml"]
 ```
