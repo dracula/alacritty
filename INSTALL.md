@@ -7,5 +7,5 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/alacritty
 You just have to import `dracula.toml` in `~/.config/alacritty/alacritty.toml`.
 
 ```toml
-import = ["/path/to/dracula.toml"]
+general.import = ["/path/to/dracula.toml"]
 ```
